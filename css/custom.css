@@ -8,3 +8,12 @@ Design and Developed by: Bixo Studios
 NOTE: This is main stylesheet of template, This file contains the styling for the actual Template. Please do not change anything here! write in a custom.css file if required!
 
 */
+
+header .navbar-default {
+    background: #000;
+    border: none;
+    border-radius: 0px;
+    min-height: inherit;
+    margin: 0;
+    padding: 20px 0;
+}
