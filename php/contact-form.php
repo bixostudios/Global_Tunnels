@@ -1,9 +1,9 @@
 <!-- /*
 
-Template: Appino - Responsive App Landing Page
-Author: iqonicthemes.in
+Template: Global Tunnels  - HTML Template
+Author: Bixo Studios
 Version: 1.0
-Design and Developed by: iqonicthemes.in
+Design and Developed by: Bixo Studios
 
 NOTE: This is main stylesheet of template, This file contains the styling for the actual Template. Please do not change anything here! write in a custom.css file if required!
 
@@ -16,7 +16,7 @@ if(isset($_POST["action"])) {
   $phone  = $_POST['phone'];     // Sender's email address
   $message = $_POST['message'];    // Sender's message
   $from = 'Demo Contact Form';    
-  $to = 'demo@domain.com';     // Recipient's email address
+  $to = 'hello@bixo.io';     // Recipient's email address
   $subject = 'Message from Contact Demo ';
 
  $body ="From: $name \n E-Mail: $email \n Phone : $phone \n Message : $message"  ;

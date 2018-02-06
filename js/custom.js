@@ -1,11 +1,4 @@
-/*
 
-Template: Sofbox - Responsive Software Landing Page
-Author: iqonicthemes.in
-Version: 1.0
-Design and Developed by: iqonicthemes.in
-
-*/
 /*================================================
 [  Table of contents  ]
 ================================================
