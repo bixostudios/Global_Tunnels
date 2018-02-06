@@ -25,8 +25,11 @@ header .navbar-default .navbar-nav>li>a {
     font-size: 16px;
 }
 
-#globe {
-    max-width: 100%;
-    margin: 0 auto 0;
-    display: block;
+.gt-box-shadow {
+    position: relative;
+    padding: 10px;
+    z-index: 9;
+    -webkit-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.1);
 }
