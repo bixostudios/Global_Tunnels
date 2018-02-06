@@ -17,3 +17,16 @@ header .navbar-default {
     margin: 0;
     padding: 20px 0;
 }
+
+header .navbar-default .navbar-nav>li>a {
+    color: #fff;
+    padding: 10px 0;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+}
+
+#globe {
+    max-width: 100%;
+    margin: 0 auto 0;
+    display: block;
+}

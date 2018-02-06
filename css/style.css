@@ -78,7 +78,7 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
         
         a:focus,
         a:hover {
-            color: #e76534;
+            color: #ff875a;
             text-decoration: none !important;
         }
         
@@ -86,7 +86,7 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
         .button,
         input {
             outline: medium none !important;
-            color: #e76534;
+            color: #ff875a;
         }
         
         h1,
@@ -181,24 +181,24 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
         }
         
         blockquote {
-            border-left: 5px solid #e76534;
+            border-left: 5px solid #ff875a;
             font-size: 16px;
         }
         
         *::-moz-selection {
-            background: #e76534;
+            background: #ff875a;
             color: #fff;
             text-shadow: none;
         }
         
          ::-moz-selection {
-            background: #e76534;
+            background: #ff875a;
             color: #fff;
             text-shadow: none;
         }
         
          ::selection {
-            background: #e76534;
+            background: #ff875a;
             color: #fff;
             text-shadow: none;
         }
@@ -248,15 +248,15 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
             z-index: 999;
             position: fixed;
             margin: 0px;
-            color: #fff;
+            color: #f5f7fb;
             background: rgba(77, 147, 163, 1);
-            background: -moz-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 1) 100%);
-            background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(77, 147, 163, 1)), color-stop(100%, rgba(178, 0, 0, 1)));
-            background: -webkit-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 1) 100%);
-            background: -o-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 1) 100%);
-            background: -ms-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 1) 100%);
-            background: linear-gradient(135deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 1) 100%);
-            filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#2af598', endColorstr='#e76534', GradientType=1);
+            background: -moz-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 1) 100%);
+            background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(77, 147, 163, 1)), color-stop(100%, rgba(255, 58, 0, 1)));
+            background: -webkit-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 1) 100%);
+            background: -o-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 1) 100%);
+            background: -ms-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 1) 100%);
+            background: linear-gradient(135deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 1) 100%);
+            filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#2af598', endColorstr='#ff875a', GradientType=1);
             position: fixed;
             bottom: 25px;
             right: 25px;
@@ -273,7 +273,7 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
         }
         
         #back-to-top .top:hover {
-            background: #e76534;
+            background: #ff875a;
             color: #fff;
             -webkit-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.1);
             -moz-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.1);
@@ -801,7 +801,7 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
             -webkit-border-radius: 4px;
             -moz-border-radius: 4px;
             border-radius: 4px;
-            background-image: linear-gradient(to right, #2af598 0%, #e76534 51%, #2af598 100%);
+            background-image: linear-gradient(to right, #2af598 0%, #ff875a 51%, #2af598 100%);
             background-size: 200% auto;
             flex: 1 1 auto;
         }
@@ -839,7 +839,7 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
         
         .button.bt-blue {
             color: #ffffff;
-            background: #e76534;
+            background: #ff875a;
         }
         
         .button.bt-blue:hover,
@@ -1690,7 +1690,7 @@ Margin Right
 -----------------------------------------------------------------------*/
         
         .iq-font-blue {
-            color: #e76534;
+            color: #ff875a;
         }
         
         .iq-font-white {
@@ -1728,7 +1728,7 @@ Margin Right
         }
         
         .blue-bg {
-            background: #e76534;
+            background: #ff875a;
         }
         /*---------------------------------------------------------------------
                              BG Effect
@@ -1777,13 +1777,13 @@ Margin Right
             width: 100%;
             z-index: -1;
             background: rgba(77, 147, 163, 1);
-            background: -moz-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 0.8) 100%);
-            background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(77, 147, 163, 1)), color-stop(100%, rgba(178, 0, 0, 0.8)));
-            background: -webkit-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 0.8) 100%);
-            background: -o-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 0.8) 100%);
-            background: -ms-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 0.8) 100%);
-            background: linear-gradient(135deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 0.8) 100%);
-            filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#2af598', endColorstr='#e76534', GradientType=1);
+            background: -moz-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 0.8) 100%);
+            background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(77, 147, 163, 1)), color-stop(100%, rgba(255, 58, 0, 0.8)));
+            background: -webkit-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 0.8) 100%);
+            background: -o-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 0.8) 100%);
+            background: -ms-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 0.8) 100%);
+            background: linear-gradient(135deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 0.8) 100%);
+            filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#2af598', endColorstr='#ff875a', GradientType=1);
         }
         
         .iq-over-blue-90:before {
@@ -1795,14 +1795,14 @@ Margin Right
             width: 100%;
             z-index: -1;
             background: rgba(77, 147, 163, 1);
-            background: -moz-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 0.9) 100%);
-            background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(77, 147, 163, 1)), color-stop(100%, rgba(178, 0, 0, 0.9)));
-            background: -webkit-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 0.9) 100%);
-            background: -o-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 0.9) 100%);
-            background: -ms-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 0.9) 100%);
-            background: linear-gradient(135deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 0.9) 100%);
+            background: -moz-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 0.9) 100%);
+            background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(77, 147, 163, 1)), color-stop(100%, rgba(255, 58, 0, 0.9)));
+            background: -webkit-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 0.9) 100%);
+            background: -o-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 0.9) 100%);
+            background: -ms-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 0.9) 100%);
+            background: linear-gradient(135deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 0.9) 100%);
             ;
-            filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#2af598', endColorstr='#e76534', GradientType=1);
+            filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#2af598', endColorstr='#ff875a', GradientType=1);
         }
         
         .iq-over-blue-90:before {
@@ -1814,13 +1814,13 @@ Margin Right
             width: 100%;
             z-index: -1;
             background: rgba(77, 147, 163, 1);
-            background: -moz-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 0.9) 100%);
-            background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(77, 147, 163, 1)), color-stop(100%, rgba(178, 0, 0, 0.9)));
-            background: -webkit-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 0.9) 100%);
-            background: -o-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 0.9) 100%);
-            background: -ms-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 0.9) 100%);
-            background: linear-gradient(135deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 0.9) 100%);
-            filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#2af598', endColorstr='#e76534', GradientType=1);
+            background: -moz-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 0.9) 100%);
+            background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(77, 147, 163, 1)), color-stop(100%, rgba(255, 58, 0, 0.9)));
+            background: -webkit-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 0.9) 100%);
+            background: -o-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 0.9) 100%);
+            background: -ms-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 0.9) 100%);
+            background: linear-gradient(135deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 0.9) 100%);
+            filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#2af598', endColorstr='#ff875a', GradientType=1);
         }
         
         .iq-over-black-80:before {
@@ -1872,13 +1872,13 @@ Margin Right
             width: 80px;
             height: 4px;
             background: rgba(77, 147, 163, 1);
-            background: -moz-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 1) 100%);
-            background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(77, 147, 163, 1)), color-stop(100%, rgba(178, 0, 0, 1)));
-            background: -webkit-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 1) 100%);
-            background: -o-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 1) 100%);
-            background: -ms-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 1) 100%);
-            background: linear-gradient(135deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 1) 100%);
-            filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#2af598', endColorstr='#e76534', GradientType=1);
+            background: -moz-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 1) 100%);
+            background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(77, 147, 163, 1)), color-stop(100%, rgba(255, 58, 0, 1)));
+            background: -webkit-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 1) 100%);
+            background: -o-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 1) 100%);
+            background: -ms-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 1) 100%);
+            background: linear-gradient(135deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 1) 100%);
+            filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#2af598', endColorstr='#ff875a', GradientType=1);
         }
         
         .heading-title p {
@@ -2073,13 +2073,13 @@ Margin Right
         header .navbar-default .navbar-nav>li.active>a,
         header .navbar-default .navbar-nav>li.active>a:focus,
         header .navbar-default .navbar-nav>li.active>a:hover {
-            color: #e76534;
+            color: #ff875a;
             background: none;
             box-shadow: none;
         }
         
         header .nav>li a::before {
-            background: #e76534;
+            background: #ff875a;
             bottom: 0;
             content: "";
             height: 2px;
@@ -2165,13 +2165,13 @@ Margin Right
         }
         
         .iq-banner .iq-video {
-            background: #fff;
+            background: #f5f7fb;
             display: inline-block;
             width: 60px;
             height: 60px;
             text-align: center;
             font-size: 29px;
-            color: #e76534;
+            color: #ff875a;
             float: left;
             border-radius: 100%;
             line-height: 2.1;
@@ -2327,7 +2327,7 @@ Margin Right
         .iq-works-box .icon-bg i {
             font-size: 50px;
             line-height: 100px;
-            color: #e76534;
+            color: #ff875a;
         }
         
         .iq-works-box .step {
@@ -2335,7 +2335,7 @@ Margin Right
             background: #ffffff;
             border-radius: 100px;
             border: 1px solid #f7f7f7;
-            color: #e76534;
+            color: #ff875a;
             width: 38px;
             height: 38px;
             line-height: 38px;
@@ -2632,13 +2632,13 @@ Margin Right
         }
         
         .iq-amazing-tab .nav.nav-tabs li a:hover {
-            color: #e76534;
+            color: #ff875a;
             background: none;
             border: none;
         }
         
         .iq-amazing-tab .nav.nav-tabs li a:hover i {
-            color: #e76534;
+            color: #ff875a;
         }
         
         .iq-amazing-tab .nav.nav-tabs li.active1 a,
@@ -2666,13 +2666,13 @@ Margin Right
             content: "";
             opacity: 0;
             background: rgba(77, 147, 163, 1);
-            background: -moz-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 1) 100%);
-            background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(77, 147, 163, 1)), color-stop(100%, rgba(178, 0, 0, 1)));
-            background: -webkit-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 1) 100%);
-            background: -o-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 1) 100%);
-            background: -ms-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 1) 100%);
-            background: linear-gradient(135deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 1) 100%);
-            filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#2af598', endColorstr='#e76534', GradientType=1);
+            background: -moz-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 1) 100%);
+            background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(77, 147, 163, 1)), color-stop(100%, rgba(255, 58, 0, 1)));
+            background: -webkit-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 1) 100%);
+            background: -o-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 1) 100%);
+            background: -ms-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 1) 100%);
+            background: linear-gradient(135deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 1) 100%);
+            filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#2af598', endColorstr='#ff875a', GradientType=1);
             -webkit-transition: all 0.5s ease-out 0s;
             -moz-transition: all 0.5s ease-out 0s;
             -ms-transition: all 0.5s ease-out 0s;
@@ -2706,7 +2706,7 @@ Margin Right
             width: 86px;
             line-height: 86px;
             text-align: center;
-            color: #e76534;
+            color: #ff875a;
             background: #f4f4f4;
             -webkit-transition: all 0.5s ease-out 0s;
             -moz-transition: all 0.5s ease-out 0s;
@@ -2718,13 +2718,13 @@ Margin Right
         .iq-fancy-box:hover .iq-icon {
             color: #f4f4f4;
             background: rgba(77, 147, 163, 1);
-            background: -moz-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 1) 100%);
-            background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(77, 147, 163, 1)), color-stop(100%, rgba(178, 0, 0, 1)));
-            background: -webkit-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 1) 100%);
-            background: -o-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 1) 100%);
-            background: -ms-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 1) 100%);
-            background: linear-gradient(135deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 1) 100%);
-            filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#2af598', endColorstr='#e76534', GradientType=1);
+            background: -moz-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 1) 100%);
+            background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(77, 147, 163, 1)), color-stop(100%, rgba(255, 58, 0, 1)));
+            background: -webkit-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 1) 100%);
+            background: -o-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 1) 100%);
+            background: -ms-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 1) 100%);
+            background: linear-gradient(135deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 1) 100%);
+            filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#2af598', endColorstr='#ff875a', GradientType=1);
         }
         
         .iq-fancy-box .iq-icon i {
@@ -2803,7 +2803,7 @@ Margin Right
             height: 80px;
             text-align: center;
             font-size: 38px;
-            color: #e76534;
+            color: #ff875a;
             border-radius: 100%;
             line-height: 2.1;
             z-index: 9;
@@ -2881,13 +2881,13 @@ Margin Right
             left: 5%;
             width: 90%;
             background: rgba(77, 147, 163, 1);
-            background: -moz-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 1) 100%);
-            background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(77, 147, 163, 1)), color-stop(100%, rgba(178, 0, 0, 1)));
-            background: -webkit-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 1) 100%);
-            background: -o-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 1) 100%);
-            background: -ms-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 1) 100%);
-            background: linear-gradient(135deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 1) 100%);
-            filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#2af598', endColorstr='#e76534', GradientType=1);
+            background: -moz-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 1) 100%);
+            background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(77, 147, 163, 1)), color-stop(100%, rgba(255, 58, 0, 1)));
+            background: -webkit-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 1) 100%);
+            background: -o-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 1) 100%);
+            background: -ms-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 1) 100%);
+            background: linear-gradient(135deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 1) 100%);
+            filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#2af598', endColorstr='#ff875a', GradientType=1);
             height: 8px;
             display: inline-block;
             z-index: -1;
@@ -3002,13 +3002,13 @@ Margin Right
         
         .owl-carousel .owl-nav i:hover {
             background: rgba(77, 147, 163, 1);
-            background: -moz-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 1) 100%);
-            background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(77, 147, 163, 1)), color-stop(100%, rgba(178, 0, 0, 1)));
-            background: -webkit-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 1) 100%);
-            background: -o-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 1) 100%);
-            background: -ms-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 1) 100%);
-            background: linear-gradient(135deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 1) 100%);
-            filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#2af598', endColorstr='#e76534', GradientType=1);
+            background: -moz-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 1) 100%);
+            background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(77, 147, 163, 1)), color-stop(100%, rgba(255, 58, 0, 1)));
+            background: -webkit-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 1) 100%);
+            background: -o-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 1) 100%);
+            background: -ms-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 1) 100%);
+            background: linear-gradient(135deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 1) 100%);
+            filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#2af598', endColorstr='#ff875a', GradientType=1);
             color: #fff;
         }
         /*---------------------------------------------------------------------
@@ -3127,7 +3127,7 @@ Margin Right
         }
         
         .iq-team .share ul li a:hover {
-            background: #e76534;
+            background: #ff875a;
         }
         
         .iq-team .iq-team-img {
@@ -3153,7 +3153,7 @@ Margin Right
             background: -o-linear-gradient(45deg, rgba(77, 147, 163, 1) 0%, rgba(74, 196, 243, 0.05) 100%);
             background: -ms-linear-gradient(45deg, rgba(77, 147, 163, 1) 0%, rgba(74, 196, 243, 0.05) 100%);
             background: linear-gradient(45deg, rgba(77, 147, 163, 1) 0%, rgba(74, 196, 243, 0.05) 100%);
-            filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#0028ff', endColorstr='#e76534', GradientType=1);
+            filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#0028ff', endColorstr='#ff875a', GradientType=1);
             -webkit-transition: all 0.3s ease-out 0s;
             -moz-transition: all 0.3s ease-out 0s;
             -ms-transition: all 0.3s ease-out 0s;
@@ -3181,7 +3181,7 @@ Margin Right
         .iq-progress-bar-text {
             font-size: 16px;
             text-transform: uppercase;
-            color: #e76534;
+            color: #ff875a;
             position: relative;
             margin-top: 50px;
         }
@@ -3276,13 +3276,13 @@ Margin Right
             -moz-transition: all 0.25s ease-in-out 0s;
             transition: all 0.25s ease-in-out 0s;
             background: rgba(77, 147, 163, 1);
-            background: -moz-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 1) 100%);
-            background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(77, 147, 163, 1)), color-stop(100%, rgba(178, 0, 0, 1)));
-            background: -webkit-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 1) 100%);
-            background: -o-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 1) 100%);
-            background: -ms-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 1) 100%);
-            background: linear-gradient(135deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 1) 100%);
-            filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#2af598', endColorstr='#e76534', GradientType=1);
+            background: -moz-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 1) 100%);
+            background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(77, 147, 163, 1)), color-stop(100%, rgba(255, 58, 0, 1)));
+            background: -webkit-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 1) 100%);
+            background: -o-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 1) 100%);
+            background: -ms-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 1) 100%);
+            background: linear-gradient(135deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 1) 100%);
+            filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#2af598', endColorstr='#ff875a', GradientType=1);
         }
         
         .iq-accordion .ad-active .ad-title:before {
@@ -3374,7 +3374,7 @@ Margin Right
         
         .iq-blog-detail a:hover,
         .iq-blog-detail .blog-title a:hover h5 {
-            color: #e76534;
+            color: #ff875a;
         }
         
         .iq-blog-meta {
@@ -3433,7 +3433,7 @@ Margin Right
             background: #f4f4f4;
             text-align: center;
             line-height: 60px;
-            color: #e76534;
+            color: #ff875a;
             border-radius: 90px;
         }
         
@@ -3468,8 +3468,8 @@ Margin Right
         }
         
         .info-share li a:hover {
-            background: #e76534;
-            border-color: #e76534;
+            background: #ff875a;
+            border-color: #ff875a;
             color: #fff;
         }
         
@@ -3531,7 +3531,7 @@ Margin Right
         
         .contact-form .section-field input:focus,
         .contact-form .section-field.textarea textarea:focus {
-            border: 1px solid #e76534;
+            border: 1px solid #ff875a;
             box-shadow: none;
             outline: none;
         }
@@ -3592,14 +3592,14 @@ Margin Right
         
         .info-share li a:hover {
             background: rgba(77, 147, 163, 1);
-            background: -moz-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 1) 100%);
-            background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(77, 147, 163, 1)), color-stop(100%, rgba(178, 0, 0, 1)));
-            background: -webkit-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 1) 100%);
-            background: -o-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 1) 100%);
-            background: -ms-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 1) 100%);
-            background: linear-gradient(135deg, rgba(77, 147, 163, 1) 0%, rgba(178, 0, 0, 1) 100%);
-            filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#2af598', endColorstr='#e76534', GradientType=1);
-            border-color: #e76534;
+            background: -moz-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 1) 100%);
+            background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(77, 147, 163, 1)), color-stop(100%, rgba(255, 58, 0, 1)));
+            background: -webkit-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 1) 100%);
+            background: -o-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 1) 100%);
+            background: -ms-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 1) 100%);
+            background: linear-gradient(135deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 1) 100%);
+            filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#2af598', endColorstr='#ff875a', GradientType=1);
+            border-color: #ff875a;
             color: #fff;
         }
         /*---------------------------------------------------------------------
@@ -3644,7 +3644,7 @@ Margin Right
         }
         
         .iq-breadcrumb .breadcrumb li a:hover {
-            color: #e76534;
+            color: #ff875a;
         }
         
         .iq-breadcrumb .breadcrumb li {
@@ -3654,7 +3654,7 @@ Margin Right
         }
         
         .iq-breadcrumb .breadcrumb li.active {
-            color: #e76534;
+            color: #ff875a;
         }
         
         .iq-breadcrumb .breadcrumb>li+li:before {
@@ -3692,8 +3692,8 @@ Margin Right
         .pagination>.active>span,
         .pagination>.active>span:focus,
         .pagination>.active>span:hover {
-            background-color: #e76534;
-            border-color: #e76534;
+            background-color: #ff875a;
+            border-color: #ff875a;
             color: #fff;
         }
         
@@ -3793,7 +3793,7 @@ Margin Right
         
         .iq-comment-list .iq-comment-metadata i {
             padding-right: 7px;
-            color: #e76534;
+            color: #ff875a;
         }
         
         .iq-comment-list .reply {
@@ -3871,7 +3871,7 @@ Margin Right
         
         .iq-widget-menu ul li a span:hover {
             text-decoration: none;
-            color: #e76534;
+            color: #ff875a;
         }
         
         .iq-widget-menu ul li.active {
@@ -3879,12 +3879,12 @@ Margin Right
         }
         
         .iq-widget-menu ul li.hover a {
-            color: #e76534;
+            color: #ff875a;
         }
         
         .iq-widget-menu ul li.hover a span {
             background: transparent;
-            color: #e76534;
+            color: #ff875a;
         }
         
         .iq-widget-menu ul ul li a span {
@@ -3892,7 +3892,7 @@ Margin Right
         }
         
         .iq-widget-menu ul ul li a span:hover {
-            color: #e76534;
+            color: #ff875a;
         }
         
         .iq-widget-menu ul ul {
@@ -3907,7 +3907,7 @@ Margin Right
         }
         
         .iq-widget-menu ul ul a:hover {
-            color: #e76534;
+            color: #ff875a;
         }
         
         .iq-widget-menu ul li.active i {
@@ -3941,14 +3941,14 @@ Margin Right
         .iq-sidebar-widget .iq-widget-search i {
             position: absolute;
             right: 8px;
-            color: #e76534;
+            color: #ff875a;
             cursor: pointer;
             padding: 16px 12px;
             font-size: 18px;
         }
         
         .iq-sidebar-widget .iq-widget-search input:focus {
-            border-color: #e76534;
+            border-color: #ff875a;
         }
         /*SideBar - Posts*/
         
@@ -3964,7 +3964,7 @@ Margin Right
         }
         
         .iq-sidebar-widget .iq-recent-post .media-body>a:hover {
-            color: #e76534;
+            color: #ff875a;
         }
         
         .iq-sidebar-widget .iq-recent-post .media-body span {
@@ -3998,9 +3998,9 @@ Margin Right
         }
         
         .iq-tags li a:hover {
-            border-color: #e76534;
+            border-color: #ff875a;
             background: none;
-            color: #e76534;
+            color: #ff875a;
         }
         /* Meta - SideBar */
         
@@ -4019,7 +4019,7 @@ Margin Right
         
         .iq-widget-archives li a:hover {
             margin-left: 5px;
-            color: #e76534;
+            color: #ff875a;
         }
         /*---------------------------------------------------------------------
                              404 Error
@@ -4033,7 +4033,7 @@ Margin Right
         }
         
         .iq-error h6 {
-            background-color: #e76534;
+            background-color: #ff875a;
             color: #ffffff;
             display: inline-block;
         }
