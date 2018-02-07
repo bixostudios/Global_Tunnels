@@ -10,7 +10,7 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
 */
 
 header .navbar-default {
-    background: #000;
+    background: #333333;
     border: none;
     border-radius: 0px;
     min-height: inherit;
