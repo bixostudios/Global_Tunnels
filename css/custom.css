@@ -50,7 +50,35 @@ header .navbar-default .navbar-nav>li>a {
 /* FONT AWESOME STYLING */
 
 .fa-database {
-    color: #75D13B
+    color: #6bd000;
+}
+
+.fa-credit-card {
+    color: #4d93a3;
+}
+
+.fa-code {
+    color: #ff875a;
+}
+
+.fa-crop {
+    color: #d35a5a;
+}
+
+.fa-building {
+    color: #6bd000;
+}
+
+.fa-desktop {
+    color: #4d93a3;
+}
+
+.fa-users {
+    color: #ff875a;
+}
+
+.fa-money-bill-alt {
+    color: #d35a5a;
 }
 
 
