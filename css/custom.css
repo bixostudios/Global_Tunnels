@@ -10,7 +10,7 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
 */
 
 header .navbar-default {
-    background: #1d1d1d;
+    background: transparent;
     border: none;
     border-radius: 0px;
     min-height: inherit;
@@ -23,6 +23,10 @@ header .navbar-default .navbar-nav>li>a {
     padding: 10px 0;
     font-family: 'Raleway', sans-serif;
     font-size: 16px;
+}
+
+header .menu-sticky {
+    background: #232a47;
 }
 
 .gt-box-shadow {
