@@ -31,7 +31,7 @@ a,
     -ms-transition: all 0.5s ease-in-out;
     -o-transition: all 0.5s ease-in-out;
     -webkit-transition: all 0.5s ease-in-out;
-    color: #333333;
+    color: #1d1d1d333;
 }
 
 a:focus {
@@ -59,7 +59,7 @@ h5,
 h6 {
     font-family: 'Raleway', sans-serif;
     font-weight: normal;
-    color: #333333;
+    color: #1d1d1d333;
     margin-top: 0px;
     margin-bottom: 0px;
 }
@@ -276,14 +276,14 @@ blockquote {
 /* Buttons white */
 
 .button.bt-white {
-    color: #333;
+    color: #1d1d1d;
     background: #fff;
 }
 
 .button.bt-white:hover,
 .button.bt-white:focus {
     color: #ffffff;
-    background: #333;
+    background: #1d1d1d;
 }
 
 
@@ -291,12 +291,12 @@ blockquote {
 
 .button.bt-black {
     color: #fff;
-    background: #333;
+    background: #1d1d1d;
 }
 
 .button.bt-black:hover,
 .button.bt-black:focus {
-    color: #333;
+    color: #1d1d1d;
     background: #ffffff;
 }
 
@@ -311,7 +311,7 @@ blockquote {
 .button.bt-blue:hover,
 .button.bt-blue:focus {
     color: #ffffff;
-    background: #333;
+    background: #1d1d1d;
 }
 
 
@@ -1202,7 +1202,7 @@ Margin Right
 }
 
 .iq-font-black {
-    color: #333333;
+    color: #1d1d1d333;
 }
 
 .iq-font-light {
@@ -1580,7 +1580,7 @@ header .navbar-nav>li:last-child {
 }
 
 header .navbar-default .navbar-nav>li>a {
-    color: #333333;
+    color: #1d1d1d333;
     padding: 10px 0;
     font-family: 'Raleway', sans-serif;
     font-size: 16px;
@@ -2176,7 +2176,7 @@ header .menu-sticky .button {
 .iq-amazing-tab .nav.nav-tabs li.active1 a,
 .iq-amazing-tab .nav.nav-tabs li.active1 a:hover,
 .iq-amazing-tab .nav.nav-tabs li.active1 a:focus {
-    color: #333333;
+    color: #1d1d1d333;
     background: none;
     border: none;
 }
@@ -2673,8 +2673,8 @@ header .menu-sticky .button {
 .pagination li a:hover,
 .pagination li span:focus,
 .pagination li span:hover {
-    border-color: #333333;
-    background-color: #333333;
+    border-color: #1d1d1d333;
+    background-color: #1d1d1d333;
     color: #fff;
 }
 
