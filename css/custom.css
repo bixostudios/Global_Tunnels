@@ -29,6 +29,14 @@ header .menu-sticky {
     background: #232a47;
 }
 
+.gt-ta-justify {
+    text-align: justify;
+}
+
+.gt-title-uppercase {
+    text-transform: uppercase;
+}
+
 .gt-box-shadow {
     position: relative;
     padding: 10px;

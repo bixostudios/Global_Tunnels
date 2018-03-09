@@ -1385,7 +1385,6 @@ Margin Right
     margin-left: -40px;
     width: 80px;
     height: 4px;
-    background: rgba(77, 147, 163, 1);
     background: -moz-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 115, 62) 100%);
     background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(77, 147, 163, 1)), color-stop(100%, rgba(255, 115, 62)));
     background: -webkit-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 115, 62) 100%);
@@ -1669,8 +1668,8 @@ header .menu-sticky .button {
 .iq-banner .banner-text {
     z-index: 9;
     position: relative;
-    margin-top: 13%;
-    margin-bottom: 5%;
+    margin-top: 5%;
+    margin-bottom: 10%;
 }
 
 .iq-banner .banner-text h1 {
