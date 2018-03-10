@@ -37,6 +37,15 @@ header .menu-sticky {
     text-transform: uppercase;
 }
 
+.fa-circle-color {
+    color: white;
+}
+
+.gt-services-backg {
+    background: #f5f7fb;
+    border: none;
+}
+
 .gt-box-shadow {
     position: relative;
     padding: 10px;
