@@ -1386,12 +1386,6 @@ Margin Right
     margin-left: -40px;
     width: 80px;
     height: 4px;
-    background: -moz-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 115, 62) 100%);
-    background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(77, 147, 163, 1)), color-stop(100%, rgba(255, 115, 62)));
-    background: -webkit-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 115, 62) 100%);
-    background: -o-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 115, 62) 100%);
-    background: -ms-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 115, 62) 100%);
-    background: linear-gradient(135deg, rgba(77, 147, 163, 1) 0%, rgba(255, 115, 62) 100%);
     filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#2af598', endColorstr='#ff875a', GradientType=1);
 }
 
