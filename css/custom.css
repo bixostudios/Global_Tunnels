@@ -46,6 +46,10 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
         text-transform: uppercase;
     }
     
+    .gt-lower-case {
+        text-transform: capitalize;
+    }
+    
     .fa-circle-color {
         color: white;
     }
