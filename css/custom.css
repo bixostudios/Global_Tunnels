@@ -50,6 +50,10 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
         text-transform: capitalize;
     }
     
+    .gt-no-decoration {
+        list-style-type: none;
+    }
+    
     .fa-circle-color {
         color: white;
     }
