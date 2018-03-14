@@ -29,6 +29,11 @@ header .menu-sticky {
     background: #232a47;
 }
 
+.gt-services-text {
+    color: #0c0c0c;
+    font-weight: normal;
+}
+
 .gt-ta-justify {
     text-align: justify;
 }
