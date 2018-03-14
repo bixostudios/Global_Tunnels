@@ -1,4 +1,4 @@
-/*
+    /*
 
 Template: Global Tunnels  - HTML Template
 Author: Bixo Studios
@@ -8,109 +8,107 @@ Design and Developed by: Bixo Studios
 NOTE: This is main stylesheet of template, This file contains the styling for the actual Template. Please do not change anything here! write in a custom.css file if required!
 
 */
-
-body {
-    font-family: 'Source Sans Pro', sans-serif;
-}
-
-header .navbar-default {
-    background: transparent;
-    border: none;
-    border-radius: 0px;
-    min-height: inherit;
-    margin: 0;
-    padding: 20px 0;
-}
-
-header .navbar-default .navbar-nav>li>a {
-    color: #fff;
-    padding: 10px 0;
-    font-family: 'Source Sans Pro', sans-serif;
-    font-size: 16px;
-}
-
-header .menu-sticky {
-    background: #232a47;
-}
-
-.gt-services-text {
-    color: #0c0c0c;
-    font-weight: normal;
-}
-
-.gt-ta-justify {
-    text-align: justify;
-}
-
-.gt-title-uppercase {
-    text-transform: uppercase;
-}
-
-.fa-circle-color {
-    color: white;
-}
-
-.gt-services-backg {
-    background: #f5f7fb;
-    border: none;
-}
-
-.gt-box-shadow {
-    position: relative;
-    padding: 10px;
-    z-index: 9;
-    -webkit-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.3);
-    -moz-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.3);
-    box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.3);
-}
-
-.iq-objects-software .iq-objects-03 {
-    border: 40px solid #cb3e3e;
-}
-
-.iq-objects .iq-objects-04 {
-    border: 56px solid #4d93a3;
-}
-
-.gt-text-hl-orange {
-    background-color: #ff875a;
-}
-
-.gt-p-bold {
-    font-weight: bold;
-}
-
-
-/* FONT AWESOME STYLING */
-
-.fa-database {
-    color: #6bd000;
-}
-
-.fa-credit-card {
-    color: #4d93a3;
-}
-
-.fa-code {
-    color: #ff875a;
-}
-
-.fa-crop {
-    color: #d35a5a;
-}
-
-.fa-building {
-    color: #6bd000;
-}
-
-.fa-desktop {
-    color: #4d93a3;
-}
-
-.fa-users {
-    color: #ff875a;
-}
-
-.fa-money-bill-alt {
-    color: #d35a5a;
-}
+    
+    body {
+        font-family: 'Source Sans Pro', sans-serif;
+    }
+    
+    header .navbar-default {
+        background: transparent;
+        border: none;
+        border-radius: 0px;
+        min-height: inherit;
+        margin: 0;
+        padding: 20px 0;
+    }
+    
+    header .navbar-default .navbar-nav>li>a {
+        color: #fff;
+        padding: 10px 0;
+        font-family: 'Source Sans Pro', sans-serif;
+        font-size: 16px;
+    }
+    
+    header .menu-sticky {
+        background: #232a47;
+    }
+    
+    .gt-services-text {
+        color: #0c0c0c;
+        font-weight: normal;
+    }
+    
+    .gt-ta-justify {
+        text-align: justify;
+    }
+    
+    .gt-title-uppercase {
+        text-transform: uppercase;
+    }
+    
+    .fa-circle-color {
+        color: white;
+    }
+    
+    .gt-services-backg {
+        background: #f5f7fb;
+        border: none;
+    }
+    
+    .gt-box-shadow {
+        position: relative;
+        padding: 10px;
+        z-index: 9;
+        -webkit-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.3);
+        -moz-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.3);
+        box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.3);
+    }
+    
+    .iq-objects-software .iq-objects-03 {
+        border: 40px solid #cb3e3e;
+    }
+    
+    .iq-objects .iq-objects-04 {
+        border: 56px solid #4d93a3;
+    }
+    
+    .gt-text-hl-orange {
+        background-color: #ff875a;
+    }
+    
+    .gt-p-bold {
+        font-weight: bold;
+    }
+    /* FONT AWESOME STYLING */
+    
+    .fa-database {
+        color: #6bd000;
+    }
+    
+    .fa-credit-card {
+        color: #4d93a3;
+    }
+    
+    .fa-code {
+        color: #ff875a;
+    }
+    
+    .fa-crop {
+        color: #d35a5a;
+    }
+    
+    .fa-building {
+        color: #6bd000;
+    }
+    
+    .fa-desktop {
+        color: #4d93a3;
+    }
+    
+    .fa-users {
+        color: #ff875a;
+    }
+    
+    .fa-money-bill-alt {
+        color: #d35a5a;
+    }
