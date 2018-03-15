@@ -87,6 +87,10 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
     .gt-p-bold {
         font-weight: bold;
     }
+    
+    .gt-ta-center {
+        text-align: center;
+    }
     /* FONT AWESOME STYLING */
     
     .fa-database {
@@ -119,4 +123,9 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
     
     .fa-money-bill-alt {
         color: #d35a5a;
+    }
+    /* PADDING BULLETED LIST */
+    
+    .iq-pl-120 {
+        padding-left: 120px !important;
     }
