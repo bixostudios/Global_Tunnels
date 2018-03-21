@@ -100,7 +100,7 @@
                             <li><a class="page-scroll" href="services.html">Services</a></li>
                             <li><a class="page-scroll" href="solutions.html">Solutions</a></li>
                             <li class="active"><a class="page-scroll" href="#">About Us</a></li>
-                            <li><a class="page-scroll" href="#contact">Contact Us</a></li>
+                            <li><a type="button" data-toggle="modal" data-target="#myModal">Contact Us</a></li>
                         </ul>
                     </nav>
                 </div>
@@ -109,6 +109,84 @@
     </header>
 
     <!-- Header End -->
+
+
+    <!-- Contact Form Modal -->
+
+    <div class="modal fade left" id="myModal">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h3 class="pull-left no-margin">Contact Us</h3>
+                    <button type="button" class="close" data-dismiss="modal" title="Close"><span class="glyphicon glyphicon-remove"></span></button>
+                </div>
+                <div class="modal-body">
+
+                    <!--NOTE: you will need to provide your own form processing script-->
+                    <form class="form-horizontal" role="form" method="post" action="form_to_email_script.php ">
+                        <span class="required">* Required</span>
+                        <div class="form-group">
+                            <label for="name" class="col-sm-3 control-label">
+<span class="required">*</span> Name:</label>
+                            <div class="col-sm-9">
+                                <input type="text" class="form-control" id="name" name="name" placeholder="First & Last" required>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="email" class="col-sm-3 control-label">
+<span class="required">*</span> Email: </label>
+                            <div class="col-sm-9">
+                                <input type="email" class="form-control" id="email" name="email" placeholder="you@domain.com" required>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="message" class="col-sm-3 control-label">
+<span class="required">*</span> Message:</label>
+                            <div class="col-sm-9">
+                                <textarea name="message" rows="4" required class="form-control" id="message" placeholder="Comments"></textarea>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="human" class="col-sm-3 control-label">
+<span class="required">*</span> Human or Bot:</label>
+                            <div class="col-sm-4">
+                                <h3 class="human">Six + 6 = ?</h3>
+                                <input type="number" class="form-control" id="human" name="human" placeholder="Enter sum in digits">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="col-sm-offset-3 col-sm-6 col-sm-offset-3">
+                                <button type="submit" id="submit" name="submit" class="btn-lg btn-primary">SUBMIT</button>
+                            </div>
+                        </div>
+                        <!--end Form-->
+                    </form>
+
+
+                </div>
+                <div class="modal-footer">
+                    <div class="col-xs-10 pull-left text-left text-muted">
+                        <small><strong>Privacy Policy:</strong>
+Lorem ipsum dolor sit amet consectetur adipiscing elit. 
+Mauris vitae libero lacus, vel hendrerit nisi! Maecenas quis 
+velit nisl, volutpat viverra felis. Vestibulum luctus mauris 
+sed sem dapibus luctus.</small>
+                    </div>
+                    <button class="btn-sm close" type="button" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+    <!-- END contact Form Modal -->
+
 
     <!-- Banner -->
 
