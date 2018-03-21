@@ -1306,13 +1306,13 @@ Margin Right
     top: 0;
     width: 100%;
     z-index: -1;
-    background: rgba(77, 147, 163, 1);
-    background: -moz-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 0.9) 100%);
-    background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(77, 147, 163, 1)), color-stop(100%, rgba(255, 58, 0, 0.9)));
-    background: -webkit-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 0.9) 100%);
-    background: -o-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 0.9) 100%);
-    background: -ms-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 0.9) 100%);
-    background: linear-gradient(135deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 0.9) 100%);
+    background: rgba(44, 62, 80, 1);
+    background: -moz-linear-gradient(-45deg, rgba(44, 62, 80, 1) 0%, rgba(253, 116, 108, 0.9) 100%);
+    background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(44, 62, 80, 1)), color-stop(100%, rgba(253, 116, 108, , 0.9)));
+    background: -webkit-linear-gradient(-45deg, rgba(44, 62, 80, 1) 0%, rgba(253, 116, 108, 0.9) 100%);
+    background: -o-linear-gradient(-45deg, rgba(44, 62, 80, 1) 0%, rgba(253, 116, 108, 0.9) 100%);
+    background: -ms-linear-gradient(-45deg, rgba(44, 62, 80, 1) 0%, rgba(253, 116, 108, 0.9) 100%);
+    background: linear-gradient(135deg, rgba(44, 62, 80, 1) 0%, rgba(253, 116, 108, 0.9) 100%);
     ;
     filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#2af598', endColorstr='#ff875a', GradientType=1);
 }
@@ -1325,13 +1325,13 @@ Margin Right
     top: 0;
     width: 100%;
     z-index: -1;
-    background: rgba(77, 147, 163, 1);
-    background: -moz-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 0.9) 100%);
-    background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(77, 147, 163, 1)), color-stop(100%, rgba(255, 58, 0, 0.9)));
-    background: -webkit-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 0.9) 100%);
-    background: -o-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 0.9) 100%);
-    background: -ms-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 0.9) 100%);
-    background: linear-gradient(135deg, rgba(77, 147, 163, 1) 0%, rgba(255, 58, 0, 0.9) 100%);
+    background: rgba(44, 62, 80, 1);
+    background: -moz-linear-gradient(-45deg, rgba(44, 62, 80, 1) 0%, rgba(253, 116, 108, 0.9) 100%);
+    background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(44, 62, 80, 1)), color-stop(100%, rgba(253, 116, 108, 0.9)));
+    background: -webkit-linear-gradient(-45deg, rgba(44, 62, 80, 1) 0%, rgba(253, 116, 108, 0.9) 100%);
+    background: -o-linear-gradient(-45deg, rgba(44, 62, 80, 1) 0%, rgba(253, 116, 108, 0.9) 100%);
+    background: -ms-linear-gradient(-45deg, rgba(44, 62, 80, 1) 0%, rgba(253, 116, 108, 0.9) 100%);
+    background: linear-gradient(135deg, rgba(44, 62, 80, 1) 0%, rgba(253, 116, 108, 0.9) 100%);
     filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#2af598', endColorstr='#ff875a', GradientType=1);
 }
 
@@ -2191,13 +2191,13 @@ header .menu-sticky .button {
     width: 100%;
     content: "";
     opacity: 0;
-    background: rgba(77, 147, 163, 1);
-    background: -moz-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 115, 62) 100%);
-    background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(77, 147, 163, 1)), color-stop(100%, rgba(255, 115, 62)));
-    background: -webkit-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 115, 62) 100%);
-    background: -o-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 115, 62) 100%);
-    background: -ms-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 115, 62) 100%);
-    background: linear-gradient(135deg, rgba(77, 147, 163, 1) 0%, rgba(255, 115, 62) 100%);
+    background: rgba(44, 62, 80, 1);
+    background: -moz-linear-gradient(-45deg, rgba(44, 62, 80, 1) 0%, rgba(255, 115, 62) 100%);
+    background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(44, 62, 80, 1)), color-stop(100%, rgba(255, 115, 62)));
+    background: -webkit-linear-gradient(-45deg, rgba(44, 62, 80, 1) 0%, rgba(255, 115, 62) 100%);
+    background: -o-linear-gradient(-45deg, rgba(44, 62, 80, 1) 0%, rgba(255, 115, 62) 100%);
+    background: -ms-linear-gradient(-45deg, rgba(44, 62, 80, 1) 0%, rgba(255, 115, 62) 100%);
+    background: linear-gradient(135deg, rgba(44, 62, 80, 1) 0%, rgba(255, 115, 62) 100%);
     filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#2af598', endColorstr='#ff875a', GradientType=1);
     -webkit-transition: all 0.5s ease-out 0s;
     -moz-transition: all 0.5s ease-out 0s;
@@ -2245,13 +2245,13 @@ header .menu-sticky .button {
 
 .iq-fancy-box:hover .iq-icon {
     color: #f4f4f4;
-    background: rgba(77, 147, 163, 1);
-    background: -moz-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 115, 62) 100%);
-    background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(77, 147, 163, 1)), color-stop(100%, rgba(255, 115, 62)));
-    background: -webkit-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 115, 62) 100%);
-    background: -o-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 115, 62) 100%);
-    background: -ms-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 115, 62) 100%);
-    background: linear-gradient(135deg, rgba(77, 147, 163, 1) 0%, rgba(255, 115, 62) 100%);
+    background: rgba(44, 62, 80, 1);
+    background: -moz-linear-gradient(-45deg, rgba(44, 62, 80, 1) 0%, rgba(255, 115, 62) 100%);
+    background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(44, 62, 80, 1)), color-stop(100%, rgba(255, 115, 62)));
+    background: -webkit-linear-gradient(-45deg, rgba(44, 62, 80, 1) 0%, rgba(255, 115, 62) 100%);
+    background: -o-linear-gradient(-45deg, rgba(44, 62, 80, 1) 0%, rgba(255, 115, 62) 100%);
+    background: -ms-linear-gradient(-45deg, rgba(44, 62, 80, 1) 0%, rgba(255, 115, 62) 100%);
+    background: linear-gradient(135deg, rgba(44, 62, 80, 1) 0%, rgba(255, 115, 62) 100%);
     filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#2af598', endColorstr='#ff875a', GradientType=1);
 }
 
@@ -2452,7 +2452,7 @@ header .menu-sticky .button {
 
 .info-share li a:hover {
     background: rgba(77, 147, 163, 1);
-    background: -moz-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 115, 62) 100%);
+    background: -moz-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(253, 116, 108, ) 100%);
     background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(77, 147, 163, 1)), color-stop(100%, rgba(255, 115, 62)));
     background: -webkit-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 115, 62) 100%);
     background: -o-linear-gradient(-45deg, rgba(77, 147, 163, 1) 0%, rgba(255, 115, 62) 100%);
