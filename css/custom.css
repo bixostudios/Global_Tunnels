@@ -13,6 +13,10 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
         font-family: 'Source Sans Pro', sans-serif;
     }
     
+    .gt-tagline {
+        font-family: 'Source Sans Pro', sans-serif;
+    }
+    
     header .navbar-default {
         background: transparent;
         border: none;
