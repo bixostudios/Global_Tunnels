@@ -16,6 +16,12 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
 ================================================
  *******************/
 
+@media(min-width:1024px) {
+    .gt-response-text {
+        font-size: .8em;
+    }
+}
+
 @media(min-width:1601px) {
     .iq-banner .iq-waves {
         left: -3.5%;
