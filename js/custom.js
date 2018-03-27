@@ -140,19 +140,6 @@ function popupgallery() {
 }
 
 
-/*************************
-countdown
-*************************/
-function countdown1() {
-    $('#countdown').countdown({
-        date: '10/01/2018 23:59:59',
-        offset: -8,
-        day: 'Day',
-        days: 'Days'
-    }, function() {
-        alert('Done!');
-    });
-}
 
 /*************************
 owl-carousel 
