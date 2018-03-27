@@ -351,7 +351,6 @@ $(document).ready(function() {
         preloader(),
         header(),
         progress(),
-        countdown1(),
         widget(),
         screensilder(),
         counter();
