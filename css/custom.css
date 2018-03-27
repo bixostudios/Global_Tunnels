@@ -14,7 +14,8 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
     }
     
     .gt-tagline {
-        font-family: 'Source Sans Pro', sans-serif;
+        font-family: 'Open Sans Condensed', sans-serif;
+        font-weight: 700;
     }
     
     header .navbar-default {

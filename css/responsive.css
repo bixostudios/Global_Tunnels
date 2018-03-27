@@ -426,7 +426,7 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
         -webkit-transition: all 0.5s ease-in-out;
     }
     header .navbar-default .navbar-toggle .icon-bar {
-        background: #4ac4f3;
+        background: #232a47;
     }
     header .navbar-default .navbar-toggle:hover,
     header .navbar-default .navbar-toggle:focus {
@@ -434,7 +434,7 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
     }
     header .navbar-default .navbar-collapse,
     header .navbar-default .navbar-form {
-        background: #fff;
+        background: #232a47;
         border: none;
         margin-top: 15px;
     }
@@ -453,7 +453,7 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
     header .navbar-default .navbar-nav>li.active>a,
     header .navbar-default .navbar-nav>li.active>a:focus,
     header .navbar-default .navbar-nav>li.active>a:hover {
-        background: #4ac4f3;
+        background: #ff875a;
         color: #fff;
     }
     header .navbar-nav>li {
