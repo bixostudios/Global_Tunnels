@@ -1585,13 +1585,13 @@ header .navbar-default .navbar-nav>li>a:focus,
 header .navbar-default .navbar-nav>li.active>a,
 header .navbar-default .navbar-nav>li.active>a:focus,
 header .navbar-default .navbar-nav>li.active>a:hover {
-    color: #ff875a;
+    color: #ffcc80;
     background: none;
     box-shadow: none;
 }
 
 header .nav>li a::before {
-    background: #ff875a;
+    background: #ffcc80;
     bottom: 0;
     content: "";
     height: 2px;
@@ -1687,7 +1687,7 @@ header .menu-sticky .button {
     height: 60px;
     text-align: center;
     font-size: 29px;
-    color: #ff875a;
+    color: #ef6c00;
     float: left;
     border-radius: 100%;
     line-height: 2.1;

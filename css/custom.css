@@ -37,6 +37,11 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
         background: #232a47;
     }
     
+    .gt-ul-center {
+        display: table;
+        margin: 0 auto;
+    }
+    
     .gt-services-text {
         color: #0c0c0c;
         font-weight: normal;
