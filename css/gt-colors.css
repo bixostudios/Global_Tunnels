@@ -1,0 +1,184 @@
+/*
+
+Template: Global Tunnels  - HTML Template
+Author: Bixo Studios
+Version: 1.0
+Design and Developed by: Bixo Studios
+
+NOTE: This is main stylesheet of template, This file contains the styling for the actual Template. Please do not change anything here! write in a custom.css file if required!
+
+*/
+
+.about--content .h2 span,
+.banner--content h1 strong,
+.banner--form .h4,
+.btn-link:focus,
+.btn-link:hover,
+.cart--items .table tbody tr td .quantity .ui-spinner-button:active:before,
+.cart--total .table tr:last-child td,
+.categories--widget ul li:hover,
+.checkout--info>p a,
+.contact--content ul li p span,
+.contact--content ul li:before,
+.expert--members-nav a[aria-describedby],
+.expert--members-nav button:hover,
+.extra-service--item:hover .extra-service--info .title .h4 a,
+.f0f--section .footer>a,
+.footer--copyright a,
+.gallery--filter-nav .nav>li.active,
+.gallery--filter-nav .nav>li:hover,
+.gallery--info .btn-groups .btn:hover,
+.gallery--nav a[aria-describedby],
+.header--nav-links .megamenu>.dropdown-menu .nav>li.active>a,
+.header--nav-search .dropdown-toggle,
+.header--navbar-top-info .icon,
+.nav-links--widget .nav>li.active>a,
+.owl-nav .owl-next:hover,
+.owl-nav .owl-prev:hover,
+.page--breadcrumb .breadcrumb>li>span,
+.pager li a[aria-describedby],
+.pager li em,
+.product--details-tab-nav .nav>li.active>a,
+.product--item-img-info .btn-groups .btn:focus,
+.product--item-img-info .btn-groups .btn:hover,
+.product--item-img-info .btn-groups .tooltip-inner,
+.product--item-info .price,
+.product--single-summery .actions .quantity .ui-spinner-button:active:before,
+.product--single-summery .in-stock,
+.product--single-summery .title .btn-group a[aria-describedby],
+.review--form .rating .br-widget a.br-selected:after,
+.search--widget .input-group-addon button,
+.service--item.active .h3 a,
+.service--item:hover .h3 a,
+.text--primary,
+a:focus,
+a:hover {
+    color: #f69323
+}
+
+.banner--slider .owl-dot.active,
+.bg--color-theme,
+.bg--overlay:before,
+.btn-default.active,
+.btn-default.active.focus,
+.btn-default.active:focus,
+.btn-default.active:hover,
+.btn-default.focus,
+.btn-default:active,
+.btn-default:active.focus,
+.btn-default:active:focus,
+.btn-default:active:hover,
+.btn-default:focus,
+.btn-default:hover,
+.cart--items .table tbody tr td .remove:hover,
+.cart--title:before,
+.cart--widget ul li .remove:hover,
+.checkout--form-title:before,
+.comment--title:before,
+.contact--title:before,
+.countdown--timer ul li strong,
+.expert--members-nav .tooltip-inner,
+.footer--widget .widget--title .h4:before,
+.gallery--nav .tooltip-inner,
+.gallery--section .title:before,
+.gallery-single--content .title:before,
+.header--nav-links .dropdown-menu>li.active>a,
+.header--nav-links .dropdown-menu>li>a:focus,
+.header--nav-links .dropdown-menu>li>a:hover,
+.header--nav-links>li.active>a,
+.header--nav-links>li.open>a,
+.header--nav-links>li.open>a:focus,
+.header--nav-links>li.open>a:hover,
+.header--nav-links>li>a:hover,
+.header--navbar .navbar-toggle,
+.nav-links--widget .h4:before,
+.open>.dropdown-toggle.btn-default,
+.open>.dropdown-toggle.btn-default.focus,
+.open>.dropdown-toggle.btn-default:focus,
+.open>.dropdown-toggle.btn-default:hover,
+.pager li .tooltip-inner,
+.post--item.sticky .post--footer .btn-default,
+.pricing--item.active .pricing--footer .btn,
+.pricing--item:hover .pricing--footer .btn,
+.pricing-single--item .title:before,
+.product--details-item .title:before,
+.product--details-tab-nav .nav>li.active>a:before,
+.product--single-summery .title .btn-group .tooltip-inner,
+.related-products-title:before,
+.service--item.active .dot:before,
+.service--item:hover .dot:before,
+.service-single--content .title:before {
+    background-color: #f69323
+}
+
+::-moz-selection {
+    background-color: #f69323
+}
+
+::selection {
+    background-color: #f69323
+}
+
+.appointment--form .form-control:focus,
+.banner--form .form-control:focus,
+.banner--slider .owl-dot.active,
+.btn-default,
+.btn-default.active,
+.btn-default.active.focus,
+.btn-default.active:focus,
+.btn-default.active:hover,
+.btn-default.focus,
+.btn-default:active,
+.btn-default:active.focus,
+.btn-default:active:focus,
+.btn-default:active:hover,
+.btn-default:focus,
+.btn-default:hover,
+.cart--coupon .input-group .form-control,
+.cart--items .table tbody tr td .remove:hover,
+.cart--items .table tbody tr:hover td img,
+.cart--widget ul li .remove:hover,
+.contact--map,
+.cta--content,
+.extra-service--item:hover,
+.form-control:focus,
+.header--nav-links .dropdown-menu>li.active>a,
+.header--nav-links .dropdown-menu>li>a:focus,
+.header--nav-links .dropdown-menu>li>a:hover,
+.header--nav-links>li.active>a,
+.header--nav-links>li.open>a,
+.header--nav-links>li.open>a:focus,
+.header--nav-links>li.open>a:hover,
+.header--nav-links>li>a:hover,
+.header--navbar .navbar-toggle,
+.megamenu-img:before,
+.nav-links--widget .nav>li.active>a,
+.nav-links--widget .nav>li>a:focus,
+.nav-links--widget .nav>li>a:hover,
+.open>.dropdown-toggle.btn-default,
+.open>.dropdown-toggle.btn-default.focus,
+.open>.dropdown-toggle.btn-default:focus,
+.open>.dropdown-toggle.btn-default:hover,
+.post--item.sticky,
+.pricing--item.active,
+.pricing--item:hover,
+.product--single-gallery .thumbnails .owl-item a.active:before,
+.product--single-summery .actions .buttons .btn:not(.active):focus,
+.product--single-summery .actions .buttons .btn:not(.active):hover,
+.service--item.active .dot,
+.service--item:hover .dot,
+.subscribe--widget .form-control {
+    border-color: #f69323
+}
+
+.checkout--info>p,
+.expert--members-nav .tooltip .tooltip-arrow,
+.gallery--nav .tooltip .tooltip-arrow,
+.pager li .tooltip .tooltip-arrow,
+.product--single-summery .title .btn-group .tooltip .tooltip-arrow {
+    border-top-color: #f69323
+}
+
+.about--content .h2 {
+    border-bottom-color: #f69323
+}
