@@ -1,18 +1,94 @@
-/*
-
-Template: Global Tunnels  - HTML Template
-Author: Bixo Studios
-Version: 1.0
-Design and Developed by: Bixo Studios
-
-NOTE: This is main stylesheet of template, This file contains the styling for the actual Template. Please do not change anything here! write in a custom.css file if required!
-
-*/
-
-.gt-larger-text {
+data-rjs .gt-larger-text {
     font-size: 3em
 }
 
 .gt--naics {
     font-weight: bolder;
+}
+
+.gt-social {
+    display: inline;
+}
+
+.gt--list-style {
+    list-style-type: none;
+    text-align: left;
+    margin: 0;
+    padding: 0;
+}
+
+.gt--partners {
+    margin-left: 10px;
+}
+
+
+/* LIFT EFFECTS */
+
+
+/* some presentation styles */
+
+.drop-shadow {
+    position: relative;
+    margin: 5px;
+    float: left;
+    padding: 10px;
+    background: #fff;
+    -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+    -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+}
+
+.drop-shadow:before,
+.drop-shadow:after {
+    content: "";
+    position: absolute;
+    z-index: -2;
+}
+
+.drop-shadow p {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+
+/* Lifted corners */
+
+.lifted {
+    -moz-border-radius: 1px;
+    border-radius: 1px;
+}
+
+.lifted:before,
+.lifted:after {
+    bottom: 15px;
+    left: 10px;
+    width: 50%;
+    height: 20%;
+    max-width: 300px;
+    -webkit-box-shadow: 0 15px 10px rgba(0, 0, 0, 0.7);
+    -moz-box-shadow: 0 15px 10px rgba(0, 0, 0, 0.7);
+    box-shadow: 0 15px 10px rgba(0, 0, 0, 0.7);
+    -webkit-transform: rotate(-3deg);
+    -moz-transform: rotate(-3deg);
+    -ms-transform: rotate(-3deg);
+    -o-transform: rotate(-3deg);
+    transform: rotate(-3deg);
+}
+
+.lifted:after {
+    right: 10px;
+    left: auto;
+    -webkit-transform: rotate(3deg);
+    -moz-transform: rotate(3deg);
+    -ms-transform: rotate(3deg);
+    -o-transform: rotate(3deg);
+    transform: rotate(3deg);
+}
+
+.gt-lifted-50 {
+    width: 50%;
+}
+
+.gt-lifted-100 {
+    width: 100%;
 }
